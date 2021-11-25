@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="30px" version="1.1" viewBox="0 0 30 30" width="30px"
+    xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Lighting</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g fill="none" fill-rule="evenodd" id="Lighting" stroke="none" stroke-width="1">
+        <circle cx="15" cy="15" fill="#6515ED" id="Oval" r="15"></circle>
+        <g id="Light" transform="translate(5.572415, 3.500000)">
+            <g id="Group" transform="translate(4.736470, 4.210195)">
+                <rect fill="#FFFFFF" height="1" id="Rectangle-2" rx="0.5" width="4.46990479"
+                    x="2.79125818" y="13.3148717"></rect>
+                <rect fill="#FFFFFF" height="1" id="Rectangle-2" rx="0.5" width="4.46990479"
+                    x="2.79125818" y="15.0772305"></rect>
+                <path
+                    d="M4.12582883,15.7633962 L5.92659231,15.7633962 C6.16992328,15.7633962 6.36718201,15.960655 6.36718201,16.2039859 L6.36718201,16.2039859 C6.36718201,16.4789811 6.22879232,16.7355143 5.99897495,16.8865319 L5.02621057,17.525755 L4.05344619,16.8865319 C3.82362882,16.7355143 3.68523913,16.4789811 3.68523913,16.2039859 L3.68523913,16.2039859 C3.68523913,15.960655 3.88249786,15.7633962 4.12582883,15.7633962 Z"
+                    fill="#FFFFFF" id="Rectangle-2"></path>
+                <path
+                    d="M0.109315306,4.5030779 C0.602928804,1.97304348 3.1320979,0.97836037 5.02621057,0.97836037 C6.92032324,0.97836037 9.48690107,1.81047266 9.94310583,4.5030779 C10.232598,6.21171427 9.43657509,8.68907723 7.55503718,11.9351668 L7.55504193,11.9351695 C7.37618571,12.243738 7.0465247,12.4336923 6.6898679,12.4336923 L3.36768724,12.433723 C3.00848701,12.433723 2.67687977,12.2410778 2.49895656,11.9290391 C0.592357648,8.58527856 -0.204189436,6.10995816 0.109315306,4.5030779 Z"
+                    fill="#FFFFFF" id="Rectangle-3"></path>
+                <path
+                    d="M2.06800717,3.12904137 L1.83794955,3.40397882 C0.92649581,4.49323974 0.764760894,6.02571756 1.42874965,7.2812478"
+                    id="Line-3" stroke="#6515ED" stroke-linecap="round" stroke-width="0.6"></path>
+            </g>
+            <rect fill="#FFFFFF" height="1.00310709" id="Rectangle-5" rx="0.501553547"
+                width="2.00621419" x="0" y="10.9651686"></rect>
+            <rect fill="#FFFFFF" height="1.00310709" id="Rectangle-5" rx="0.501553547"
+                width="2.00621419" x="17.2979544" y="10.9651686"></rect>
+            <rect fill="#FFFFFF" height="1.00310709" id="Rectangle-5" rx="0.501553547"
+                transform="translate(17.340064, 5.700737) rotate(-30.000000) translate(-17.340064, -5.700737) "
+                width="2.00621419" x="16.336957" y="5.19918383"></rect>
+            <rect fill="#FFFFFF" height="1.00310709" id="Rectangle-5" rx="0.501553547"
+                transform="translate(1.964105, 5.700737) scale(-1, 1) rotate(-30.000000) translate(-1.964105, -5.700737) "
+                width="2.00621419" x="0.960997468" y="5.19918383"></rect>
+            <rect fill="#FFFFFF" height="1.00310709" id="Rectangle-5" rx="0.501553547"
+                transform="translate(9.609975, 1.439884) rotate(-270.000000) translate(-9.609975, -1.439884) "
+                width="2.00621419" x="8.60686759" y="0.938330699"></rect>
+        </g>
+    </g>
+</svg>

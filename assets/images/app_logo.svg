@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Filmshape Logo Final</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#6E19FF" offset="0%"></stop>
+            <stop stop-color="#B112FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M-1.43884904e-13,2.48689958e-14 L21.3064607,2.48689958e-14 C29.7265699,2.15458899e-14 36.552417,6.82584716 36.552417,15.2459563 L36.552417,22.7235967 C36.552417,27.0139192 33.0744235,30.4919127 28.7841011,30.4919127 L9.72659567,30.4919127 C5.43627459,30.4919102 1.95828216,27.0139178 1.95828216,22.7235967 C1.95828216,22.7061512 1.95834093,22.6887058 1.95845846,22.6712607 C2.01888526,13.7022306 1.99736832,8.38485694 1.89390762,6.71913964 C1.76328001,4.61603512 1.13197747,2.37632191 -1.43884904e-13,2.48689958e-14 Z" id="path-2"></path>
+        <path d="M20.7361747,10.4518116 L45.1733711,4.41611855 C46.6051447,4.06248774 48.0525008,4.93649509 48.4061316,6.3682686 C48.4578764,6.57777183 48.484035,6.79277502 48.484035,7.00857382 L48.484035,23.4833388 C48.484035,24.9581371 47.2884747,26.1536974 45.8136764,26.1536974 C45.5978776,26.1536974 45.3828744,26.1275388 45.1733711,26.0757941 L20.7361747,20.040101 C18.5682904,19.5046597 17.0451685,17.5595752 17.0451685,15.3265459 L17.0451685,15.1653667 C17.0451685,12.9323374 18.5682904,10.9872529 20.7361747,10.4518116 Z" id="path-4"></path>
+        <filter x="-47.7%" y="-53.5%" width="195.4%" height="234.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="1.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="15.2057773%" x2="4.64286913%" y2="84.7942227%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,0 L21.3064607,0 C29.7265699,-3.3231058e-15 36.552417,6.82584716 36.552417,15.2459563 L36.552417,22.7235967 C36.552417,27.0139192 33.0744235,30.4919127 28.7841011,30.4919127 L9.72659567,30.4919127 C5.43627459,30.4919102 1.95828216,27.0139178 1.95828216,22.7235967 C1.95828216,22.7061512 1.95834093,22.6887058 1.95845846,22.6712607 C2.01888526,13.7022306 1.99736832,8.38485694 1.89390762,6.71913964 C1.76328001,4.61603512 1.13197747,2.37632191 0,0 Z" id="path-7"></path>
+        <filter x="-47.1%" y="-39.4%" width="188.1%" height="198.4%" filterUnits="objectBoundingBox" id="filter-9">
+            <feMorphology radius="1.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Filmshape-Site-V2" transform="translate(-678.000000, -154.000000)">
+            <g id="Filmshape-Logo-Final" transform="translate(678.000000, 154.000000)">
+                <circle id="Oval-1" fill="url(#linearGradient-1)" cx="41.7520543" cy="41.7520543" r="41.7520543"></circle>
+                <g id="Shadow" transform="translate(17.534307, 29.172712)">
+                    <path d="M20.7361747,10.4518116 L45.1733711,4.41611855 C46.6051447,4.06248774 48.0525008,4.93649509 48.4061316,6.3682686 C48.4578764,6.57777183 48.484035,6.79277502 48.484035,7.00857382 L48.484035,23.4833388 C48.484035,24.9581371 47.2884747,26.1536974 45.8136764,26.1536974 C45.5978776,26.1536974 45.3828744,26.1275388 45.1733711,26.0757941 L20.7361747,20.040101 C18.5682904,19.5046597 17.0451685,17.5595752 17.0451685,15.3265459 L17.0451685,15.1653667 C17.0451685,12.9323374 18.5682904,10.9872529 20.7361747,10.4518116 Z" id="Rectangle-3" fill="#8244CC"></path>
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="#8244CC" xlink:href="#path-2"></use>
+                </g>
+                <g id="Shape" transform="translate(17.534307, 26.796712)">
+                    <g id="Rectangle-3">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                    <g id="Line-+-Line-Mask">
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <g id="Mask">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-7"></use>
+                            <use fill="url(#linearGradient-6)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        </g>
+                        <g id="Dots" mask="url(#mask-8)" fill="#6E19FF">
+                            <g transform="translate(10.554227, 13.446744)" id="Oval-eye-left">
+                                <ellipse cx="15.6030966" cy="1.8414" rx="1.84352797" ry="1.8414"></ellipse>
+                                <ellipse cx="8.71325081" cy="1.8414" rx="1.84352797" ry="1.8414"></ellipse>
+                                <ellipse cx="1.84571511" cy="1.8414" rx="1.84352797" ry="1.8414"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

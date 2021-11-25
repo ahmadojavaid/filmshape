@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="30px" version="1.1" viewBox="0 0 30 30" width="30px"
+    xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Other</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g fill="none" fill-rule="evenodd" id="Other" stroke="none" stroke-width="1">
+        <circle cx="15" cy="15" fill="#C3053D" id="Oval" r="15"></circle>
+        <polygon fill="#FFFFFF" id="add---material"
+            points="19.947 15.247 15.697 15.247 15.697 19.497 14.303 19.497 14.303 15.247 10.053 15.247 10.053 13.853 14.303 13.853 14.303 9.603 15.697 9.603 15.697 13.853 19.947 13.853"></polygon>
+    </g>
+</svg>
